@@ -140,7 +140,7 @@ html{
 
 * ASO优化
 * Python 自动化
-* shell 搬砖
+* Shell 搬砖
 * 专业划水
 
 助教经历
@@ -156,7 +156,7 @@ html{
 
 * [GeekASO](https://www.geekaso.com/)
 * [ASO黑科技](https://www.asoheikeji.com)
-* 微信小程序**ASO黑科技Pro**
+* 微信搜索小程序**ASO黑科技Pro**
 
 > 如果你喜欢这个效果，
 Fork [这个项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！

@@ -128,7 +128,7 @@ html{
 
 * ASO优化
 * Python 自动化
-* shell 搬砖
+* Shell 搬砖
 * 专业划水
 
 助教经历
