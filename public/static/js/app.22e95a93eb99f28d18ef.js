@@ -224,7 +224,7 @@ html{
       fullMarkdown: `道长@ASO黑科技
 ----
 
-资深ASO优化师，三节课课程助教，划水数据分析师
+资深ASO优化师，三节课课程助教，业余数据分析师
 
 个人博客 [GeekASO](https://www.geekaso.com) 。
 
@@ -470,7 +470,7 @@ html{
       fullMarkdown: `道长@ASO黑科技
 ----
 
-资深ASO优化师，三节课课程助教，划水数据分析师
+资深ASO优化师，三节课课程助教，业余数据分析师
 
 个人博客 [GeekASO](https://www.geekaso.com) 。
 
@@ -786,4 +786,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.b6b709f8db0c51a257db.js.map
+//# sourceMappingURL=app.22e95a93eb99f28d18ef.js.map

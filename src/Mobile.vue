@@ -131,7 +131,7 @@ html{
         fullMarkdown: `道长@ASO黑科技
 ----
 
-资深ASO优化师，三节课课程助教，划水数据分析师
+资深ASO优化师，三节课课程助教，业余数据分析师
 
 个人博客 [GeekASO](https://www.geekaso.com) 。
 
